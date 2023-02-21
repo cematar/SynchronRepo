@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace CoreAPI_Deneme2.Controllers
+namespace CoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
